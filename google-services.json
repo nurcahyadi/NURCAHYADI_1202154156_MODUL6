@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "953003466786",
+    "firebase_url": "https://kosebar-43da2.firebaseio.com",
+    "project_id": "kosebar-43da2",
+    "storage_bucket": "kosebar-43da2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953003466786:android:229493b032786937",
+        "android_client_info": {
+          "package_name": "com.example.android.kosebar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953003466786-23fne8fnegdnghhca3ebg38qvsa0q2s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.kosebar",
+            "certificate_hash": "a630444ea92864389ebb3241bcfcd768d4be9a80"
+          }
+        },
+        {
+          "client_id": "953003466786-jsnk2gk8hvhco2qk33bga0h1aeu4jgu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtvoK1NO3OAflEMVyPW4s923z8ysRa1-k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953003466786-jsnk2gk8hvhco2qk33bga0h1aeu4jgu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
